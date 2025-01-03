@@ -1,3 +1,0 @@
-C:/code/uni/NHF/cmake-build-debug/CMakeFiles/NHF.dir
-C:/code/uni/NHF/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/code/uni/NHF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
